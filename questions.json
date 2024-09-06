@@ -1,0 +1,111 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript??",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3
+    },
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    },
+    {
+        "question":
+          " How do you write 'Hello World' in an alert box?",
+        "choice1": "(pow(b,2)-2*b*a)",
+        "choice2": "(pow(b,2)-4*a*c)",
+        "choice3": "(pow(c,2)-4*a*c)",
+        "choice4": "(pow(a,2)-4*a*b)",
+        "answer": 2
+    },
+    {
+        "question":
+          " How many elements are in the periodic table?",
+        "choice1": "113",
+        "choice2": "119",
+        "choice3": "118",
+        "choice4": "116",
+        "answer": 3
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere? : ",
+        "choice1": "Nitrogen",
+        "choice2": "Oxygen",
+        "choice3": "Carbon-Dioxide",
+        "choice4": "Hydrogen",
+        "answer": 4
+    },
+    {
+        "question": "What is the value of ln1? :  ",
+        "choice1": "0",
+        "choice2": "-1",
+        "choice3": "0",
+        "choice4": "1",
+        "answer": 3
+    },
+    {
+        "question": "What is the greatest common factor of 12 and 36? : ",
+        "choice1": "12",
+        "choice2": "35",
+        "choice3": "1",
+        "choice4": "7",
+        "answer": 1
+    },
+    {
+        "question": "What percent of 80 is 100? : ",
+        "choice1": "80%",
+        "choice2": "50%",
+        "choice3": "100%",
+        "choice4": "125%",
+        "answer": 4
+    },
+    {
+        "question":
+          "What is the perimeter and area of a circle with diameter equal to 5cm? : Please round up to the next integer the answer. ",
+        "choice1": "(13,48)",
+        "choice2": "(6,25)",
+        "choice3": "(25,75)",
+        "choice4": "(17,40)",
+        "answer": 1
+    },
+    {
+        "question": "How many significant digits are there in the number 6.3? : ",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "1",
+        "choice4": "3",
+        "answer": 2
+    },
+    {
+        "question":
+          "The equation y=m*x+b describes what kind of relationship between variables x and y? : ",
+        "choice1": "Linear",
+        "choice2": "Quadratic",
+        "choice3": "Inverse",
+        "choice4": "Exponential",
+        "answer": 3
+    },
+    {
+        "question": "What is the derivation of (lnx/x+cosx)? : ",
+        "choice1": "(sinx-2)",
+        "choice2": "(1/x+cosx)",
+        "choice3": "pow(e,x)",
+        "choice4": "(1-x*sinx/x)",
+        "answer": 4
+    }
+     
+  ]
